@@ -1,0 +1,38 @@
+
+.settings{
+    width: 100%;
+    /* border: black 3px solid; */
+    
+}
+.tittleContainer{
+    width: 100%;
+    padding: 1%;
+    text-align: center;
+    color: white;
+    background-color: black;
+    /* border: 2px black solid; */
+}
+.display{
+    width: auto;
+    height: auto;
+    margin: 1% 1%;
+    text-align: center;
+    /* border: 3px solid black; */
+    
+}
+.flexDisplay{
+    width: 100%;
+    height: 35vh;
+    display: flex;
+    flex-flow: wrap;
+    border-bottom: 2px black solid;
+    overflow: auto;
+}
+.searchContainer{
+    width: 100%;
+    display: flex;
+    margin: 2% 0;
+    justify-content: center;
+    /* border: 2px black solid; */
+
+}
